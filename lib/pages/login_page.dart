@@ -6,7 +6,7 @@ class LoginPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    String? ism = "Marona";
+    String? ism = "Marjona";
     return Scaffold(
       body: Center(
         child: ElevatedButton(
